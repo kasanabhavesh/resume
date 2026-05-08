@@ -12,7 +12,6 @@ export function HeroSection() {
           <h1 className="prose-balance text-3xl font-bold tracking-tight text-zinc-950 sm:text-5xl dark:text-zinc-100">
             {resumeData.name}
           </h1>
-          <p className="text-lg text-zinc-700 dark:text-zinc-300">{resumeData.title}</p>
         </div>
         <ThemeToggle />
       </div>
