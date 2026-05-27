@@ -130,9 +130,13 @@ export const resumeData: ResumeData = {
   ],
   skills: [
     {
+      category: "AI",
+      items: ["RAG","Embedding Generation", "Semantic Search" "LangChain", "LangGraph", "LangSmith", "VectorDB", "AI Agents"],
+    },
+    {
       category: "Distributed Systems",
       items: ["Kafka", "RabbitMQ", "Event-Driven Architecture", "HLD", "LLD"],
-    },
+    }, 
     {
       category: "Cloud Native",
       items: ["AWS", "GCP", "Docker", "Kubernetes", "Terraform", "Ansible"],
