@@ -76,7 +76,7 @@ export const resumeData: ResumeData = {
       start: "Aug 2021",
       end: "Present",
       highlights: [
-        "Architected a high-throughput real-time analytics platform processing 150M+ events per day.",
+        "Architected a high-throughput real-time analytics platform processing 1M+ events per day.",
         "Established architecture and code review culture to improve resiliency and reduce defects.",
         "Mentored engineers and improved delivery quality through test automation best practices.",
         "Authored and maintained large-scale TypeScript and Java services powering critical products.",
