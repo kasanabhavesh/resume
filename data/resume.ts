@@ -54,13 +54,13 @@ export const resumeData: ResumeData = {
   title: "Principal Software Engineer",
   summary:
     "Principal engineer with 11 years of product engineering experience, specializing in event-driven platforms, cloud-native modernization, and high-throughput distributed systems.",
-  location: "Delhi, India",
+  location: "West Delhi, India",
   email: "bhaveshkasana@gmail.com",
   phone: "+91-9910181511",
   socials: [
     {
       label: "GitHub",
-      href: "https://github.com/bhaveshkasana",
+      href: "https://github.com/kasanabhavesh",
     },
     {
       label: "LinkedIn",
