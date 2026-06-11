@@ -76,10 +76,12 @@ export const resumeData: ResumeData = {
       start: "Aug 2021",
       end: "Present",
       highlights: [
-        "Architected a high-throughput real-time analytics platform processing 1M+ events per day.",
-        "Established architecture and code review culture to improve resiliency and reduce defects.",
-        "Mentored engineers and improved delivery quality through test automation best practices.",
-        "Authored and maintained large-scale TypeScript and Java services powering critical products.",
+        "Stakeholder Engagement - Collaborate with Product, Security, and Leadership teams to translate strategic ideas into technology.",
+        "Strategy and Architecture: Initiated internal Architecture review culture through dedicated weekly sessions that fostered a robust and resilient Infrastructure and architecture.",
+        "Critical High-Throughput systems: Championed the design and architecture of payment systems, refund systems, real-time analytics platform, processing over 1 million transactions per day with high resolution edge cases handling.",
+        "Knowledge Sharing & Mentorship: Defined and evolved engineering vision and full stack architecture across frontend, BFF, and backend tiers. Mentored engineers, ensuring team productivity boost through adoption with best practices in efficient PR reviews, Pair-programming sessions and automated Test driven development.",
+        "Hands-on Engineering: Authored and maintained over 100,000 lines of Typescript and Python code for multiple Micro-services from Pre-AI Era, resulting in a robust and maintainable software base that served as the foundation for critical business modules.",
+        "Observability & Reliability - Enforce full-stack observability with Telemetry, Grafana, Kibana, Telegraf and SLO-based engineering."
       ],
     },
     {
@@ -89,10 +91,12 @@ export const resumeData: ResumeData = {
       start: "Jul 2019",
       end: "Aug 2021",
       highlights: [
-        "Built centralized logging capabilities with ELK for monitoring and incident visibility.",
-        "Implemented telemetry and anomaly detection using TIGK-based observability workflows.",
-        "Led migration from PHP to TypeScript and decomposed monoliths into microservices.",
-        "Delivered Docker and Kubernetes-based deployment pipelines and a self-upgradable secure agent.",
+        "Cross-team collaboration: Implemented comrehensive centralized logging library in sync with ELK for monitoring for Typescript, Python, PHP supporting alerting setup on critical events.",
+        "Telemetry and Observability: Utilised Telagraf, InfluxDB and Grafana  stack for time-series monitoring, anomaly detection, and alerting.",
+        "Code Modernisation: Strategy to migrate the monolith codebase from PHP to TypeScript Microservices for better scalability and maintainability.",
+        "Cybersecurity Compliance Controls: Implemented programs to assess compliance breach probability and compromise risk.",
+        "Containerisation and Auto-scaling: Transformed monolith SAFE application to micro-services for efficient development and deployment using docker and kubernetes.",
+        "Private Network Premises Agents : Developed a self-installable and auto-upgradable SAFE agent for secure data collection and transfer."
       ],
     },
     {
