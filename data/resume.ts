@@ -176,7 +176,7 @@ export const resumeData: ResumeData = {
     {
       name: "Real-Time Analytics Platform",
       summary: "Built a streaming analytics architecture to process product and operational events at scale.",
-      impact: "Sustained 150M+ daily events with low-latency dashboards and actionable insights.",
+      impact: "Sustained 10M+ daily events with low-latency dashboards and actionable insights.",
       tech: ["TypeScript", "Java", "Kafka", "GCP"],
     },
     {
