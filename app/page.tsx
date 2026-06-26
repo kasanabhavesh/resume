@@ -13,11 +13,11 @@ export default function Home() {
   return (
     <main className="pb-16">
       <Container className="space-y-14">
-        <Reveal>
+        <Reveal immediate>
           <HeroSection />
         </Reveal>
 
-        <Reveal delay={0.05}>
+        <Reveal immediate delay={0.05}>
           <ExperienceSection />
         </Reveal>
 
