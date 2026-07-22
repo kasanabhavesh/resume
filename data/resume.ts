@@ -72,7 +72,7 @@ export const resumeData: ResumeData = {
     {
       company: "Apollo 247",
       role: "Principal Engineer",
-      location: "Remote",
+      location: "Gurugram, India",
       start: "Aug 2021",
       end: "Present",
       highlights: [
@@ -87,7 +87,7 @@ export const resumeData: ResumeData = {
     {
       company: "Safe Security",
       role: "Platform Engineer",
-      location: "Remote",
+      location: "Delhi, India",
       start: "Jul 2019",
       end: "Aug 2021",
       highlights: [
